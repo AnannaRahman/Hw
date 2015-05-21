@@ -1,0 +1,21 @@
+﻿body {
+}
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+   
+}
+header {
+    width: 960px;
+
+}
+.logo {
+    width: 600px;
+    background: gainsboro;
+    float: left;
+}
+.banner {
+    width: 360px;
+    background: plum;
+    float: left;
+}

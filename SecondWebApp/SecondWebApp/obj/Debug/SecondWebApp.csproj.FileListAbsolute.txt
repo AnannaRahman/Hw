@@ -1,0 +1,6 @@
+C:\Users\Web App Develop .Net\Desktop\A 21st may\SecondWebApp\SecondWebApp\bin\SecondWebApp.dll.config
+C:\Users\Web App Develop .Net\Desktop\A 21st may\SecondWebApp\SecondWebApp\bin\SecondWebApp.dll
+C:\Users\Web App Develop .Net\Desktop\A 21st may\SecondWebApp\SecondWebApp\bin\SecondWebApp.pdb
+C:\Users\Web App Develop .Net\Desktop\A 21st may\SecondWebApp\SecondWebApp\obj\Debug\SecondWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\A 21st may\SecondWebApp\SecondWebApp\obj\Debug\SecondWebApp.dll
+C:\Users\Web App Develop .Net\Desktop\A 21st may\SecondWebApp\SecondWebApp\obj\Debug\SecondWebApp.pdb

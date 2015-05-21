@@ -1,0 +1,6 @@
+C:\Users\Web App Develop .Net\Desktop\A 21st may\FirstWebApp\FirstWebApp\bin\FirstWebApp.dll.config
+C:\Users\Web App Develop .Net\Desktop\A 21st may\FirstWebApp\FirstWebApp\bin\FirstWebApp.dll
+C:\Users\Web App Develop .Net\Desktop\A 21st may\FirstWebApp\FirstWebApp\bin\FirstWebApp.pdb
+C:\Users\Web App Develop .Net\Desktop\A 21st may\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\A 21st may\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.dll
+C:\Users\Web App Develop .Net\Desktop\A 21st may\FirstWebApp\FirstWebApp\obj\Debug\FirstWebApp.pdb

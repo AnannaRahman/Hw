@@ -1,0 +1,30 @@
+﻿body {
+}
+.box {
+    width: 500px;
+   
+    background: gainsboro;
+     margin: 50px auto;
+      padding: 50px;
+
+
+
+
+}
+.box1 {
+   
+   
+    background:gold;
+    padding: 50px;
+
+
+}
+.box2 {
+   
+ 
+    background: pink;
+    padding: 50px;
+
+
+
+}
